@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Net Core\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj": {}
+    "E:\\码云\\test\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj": {}
   },
   "projects": {
-    "E:\\Net Core\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj": {
+    "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net Core\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj",
+        "projectUniqueName": "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj",
         "projectName": "LinXi_Common",
-        "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj",
+        "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj",
         "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Common\\obj\\",
+        "outputPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
-                "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
+              "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
+                "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
               }
             }
           }
@@ -90,18 +90,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Net Core\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj": {
+    "E:\\码云\\test\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net Core\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj",
+        "projectUniqueName": "E:\\码云\\test\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj",
         "projectName": "LinXi_IdentityServer",
-        "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj",
+        "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IdentityServer\\LinXi_IdentityServer.csproj",
         "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IdentityServer\\obj\\",
+        "outputPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,14 +117,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Net Core\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj": {
-                "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj"
+              "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj": {
+                "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj"
               },
-              "E:\\Net Core\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj": {
-                "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj"
+              "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj": {
+                "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj"
               },
-              "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
-                "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
+              "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
+                "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
               }
             }
           }
@@ -177,18 +177,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Net Core\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj": {
+    "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net Core\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj",
+        "projectUniqueName": "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj",
         "projectName": "LinXi_IRepository",
-        "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj",
+        "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj",
         "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IRepository\\obj\\",
+        "outputPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,8 +204,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
-                "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
+              "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
+                "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
               }
             }
           }
@@ -233,18 +233,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Net Core\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj": {
+    "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net Core\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj",
+        "projectUniqueName": "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj",
         "projectName": "LinXi_IService",
-        "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj",
+        "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj",
         "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IService\\obj\\",
+        "outputPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -260,11 +260,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Net Core\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj": {
-                "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj"
+              "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj": {
+                "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj"
               },
-              "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
-                "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
+              "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
+                "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
               }
             }
           }
@@ -292,18 +292,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
+    "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj",
+        "projectUniqueName": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj",
         "projectName": "LinXi_Model",
-        "projectPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj",
+        "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj",
         "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\Net Core\\LinXi_ERP\\LinXI_Model\\obj\\",
+        "outputPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -372,7 +372,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7791,23 +7791,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\liaobin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\cheny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXi_Repository\\LinXi_Repository.csproj",
+      "projectUniqueName": "E:\\码云\\test\\LinXi_ERP\\LinXi_Repository\\LinXi_Repository.csproj",
       "projectName": "LinXi_Repository",
-      "projectPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXi_Repository\\LinXi_Repository.csproj",
-      "packagesPath": "C:\\Users\\liaobin\\.nuget\\packages\\",
-      "outputPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXi_Repository\\obj\\",
+      "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_Repository\\LinXi_Repository.csproj",
+      "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+      "outputPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_Repository\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\liaobin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7815,17 +7811,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://packagesource": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj": {
-              "projectPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj"
+            "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj": {
+              "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IRepository\\LinXi_IRepository.csproj"
             },
-            "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
-              "projectPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
+            "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
+              "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
             }
           }
         }

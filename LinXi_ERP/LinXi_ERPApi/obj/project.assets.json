@@ -11946,23 +11946,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\liaobin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\cheny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_ERPApi\\LinXi_ERPApi.csproj",
+      "projectUniqueName": "E:\\码云\\test\\LinXi_ERP\\LinXI_ERPApi\\LinXi_ERPApi.csproj",
       "projectName": "LinXi_ERPApi",
-      "projectPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_ERPApi\\LinXi_ERPApi.csproj",
-      "packagesPath": "C:\\Users\\liaobin\\.nuget\\packages\\",
-      "outputPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_ERPApi\\obj\\",
+      "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_ERPApi\\LinXi_ERPApi.csproj",
+      "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+      "outputPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_ERPApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\liaobin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11970,20 +11966,19 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://packagesource": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj": {
-              "projectPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj"
+            "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj": {
+              "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Common\\LinXi_Common.csproj"
             },
-            "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj": {
-              "projectPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj"
+            "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj": {
+              "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXi_IService\\LinXi_IService.csproj"
             },
-            "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
-              "projectPath": "D:\\桌面文件及其他\\一个抚养费\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
+            "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj": {
+              "projectPath": "E:\\码云\\test\\LinXi_ERP\\LinXI_Model\\LinXi_Model.csproj"
             }
           }
         }

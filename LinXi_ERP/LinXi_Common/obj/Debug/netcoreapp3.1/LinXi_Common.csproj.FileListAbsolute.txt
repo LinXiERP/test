@@ -21,3 +21,15 @@ E:\码云\test\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.cspro
 E:\码云\test\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.csproj.CopyComplete
 E:\码云\test\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.dll
 E:\码云\test\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.pdb
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\bin\Debug\netcoreapp3.1\LinXi_Common.deps.json
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\bin\Debug\netcoreapp3.1\LinXi_Common.dll
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\bin\Debug\netcoreapp3.1\LinXi_Common.pdb
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.csprojAssemblyReference.cache
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.AssemblyInfoInputs.cache
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.AssemblyInfo.cs
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.csproj.CoreCompileInputs.cache
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.csproj.CopyComplete
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.dll
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXI_Common\obj\Debug\netcoreapp3.1\LinXi_Common.pdb

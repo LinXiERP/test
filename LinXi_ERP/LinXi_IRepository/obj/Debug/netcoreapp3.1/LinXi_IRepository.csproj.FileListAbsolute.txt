@@ -21,3 +21,15 @@ E:\码云\test\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IReposi
 E:\码云\test\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csproj.CopyComplete
 E:\码云\test\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.dll
 E:\码云\test\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_IRepository.deps.json
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_IRepository.dll
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csprojAssemblyReference.cache
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.AssemblyInfoInputs.cache
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.AssemblyInfo.cs
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csproj.CoreCompileInputs.cache
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csproj.CopyComplete
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.dll
+D:\桌面文件及其他\一个抚养费\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.pdb
